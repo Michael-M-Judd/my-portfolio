@@ -1,0 +1,8 @@
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1326px !important; }
+
+  .container.project .col {
+    padding-right: 50px; } }
+
+/*# sourceMappingURL=responsiveness.css.map */
