@@ -126,6 +126,13 @@ h3 {
 .container.project {
     margin-top: 100px;
     margin-bottom: 200px;
+
+    .col img.shadow {
+        transition: all ease-in-out 1s;
+    }
+    .col img.shadow:hover {
+        transform: scale(1.2);
+    }
 }
 
 
